@@ -20,3 +20,4 @@ F:\C\SMAF\SMAF\obj\Debug\net8.0-windows\SMAF.genruntimeconfig.cache
 F:\C\SMAF\SMAF\obj\Debug\net8.0-windows\ref\SMAF.dll
 F:\C\SMAF\SMAF\obj\Debug\net8.0-windows\SettingsWindow.g.cs
 F:\C\SMAF\SMAF\obj\Debug\net8.0-windows\SettingsWindow.baml
+F:\C\SMAF\SMAF\obj\Debug\net8.0-windows\SMAF.sourcelink.json

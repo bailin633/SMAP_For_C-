@@ -22,6 +22,8 @@ namespace SMAF
         public SettingsWindow()
         {
             InitializeComponent();
+            // 设置窗口居中
+            this.WindowStartupLocation = WindowStartupLocation.CenterScreen;
         }
     }
 }
